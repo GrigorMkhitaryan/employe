@@ -1,4 +1,11 @@
-#include "Employee.hpp"
+#include <iostream>
+#include "Employee.cpp"
+#include "Developer.cpp"
+#include "Manager.cpp"
+#include "Salesperson.cpp"
+#include "SeniorManager.cpp"
+#include "Executive.cpp"
+#include "EmployeeManagementSystem.cpp"
 
 int main() {
     EmployeeManagementSystem ems;
